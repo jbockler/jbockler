@@ -2,7 +2,7 @@
 
 I'm Josch Bockler, a passionate Ruby on Rails developer who loves crafting scalable and maintainable web applications. My focus is on clean code, performance-driven solutions, and continuous learning.
 
-When I'm not coding, you'll probably find me:
+When I'm not at work, you'll probably find me:
 - 🚴‍♂️ Gravel biking on scenic trails or exploring new routes.
 - 🧗 Taking on new challenges, whether outdoors or in personal projects.
 
