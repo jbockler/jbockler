@@ -6,6 +6,23 @@ When I'm not at work, you'll probably find me:
 - 🚴‍♂️ Gravel biking on scenic trails or exploring new routes.
 - 🧗 Taking on new challenges, whether outdoors or in personal projects.
 
+## Open Source Contributions
+
+### Recent Publications
+- [vcr-unused_cassettes](https://github.com/jbockler/vcr-unused_cassettes)
+- [yabeda-resque](https://github.com/jbockler/yabeda-resque)
+
+### Notable Contributions
+- [appsignal/appsignal-ruby](https://github.com/appsignal/appsignal-ruby)
+    - [Issues](https://github.com/appsignal/appsignal-ruby/issues?q=is%3Aissue%20author%3Ajbockler%20)
+    - [Pull Requests](https://github.com/appsignal/appsignal-ruby/pull?q=is%3Apr%20author%3Ajbockler%20)
+- [Bearer/bearer-rules](https://github.com/Bearer/bearer-rules)
+    - [Pull Requests](https://github.com/Bearer/bearer-rules/pulls?q=is%3Apr+author%3Ajbockler)
+- [yob/pdf-reader](https://github.com/yob/pdf-reader)
+    - [Pull Requests](https://github.com/yob/pdf-reader/pulls?q=is%3Apr+author%3Ajbockler+is%3Aclosed)
+
+And several other smaller contributions.
+
 <!--
 **jbockler/jbockler** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
