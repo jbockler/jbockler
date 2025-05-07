@@ -16,10 +16,14 @@ When I'm not at work, you'll probably find me:
 - [appsignal/appsignal-ruby](https://github.com/appsignal/appsignal-ruby)
     - [Issues](https://github.com/appsignal/appsignal-ruby/issues?q=is%3Aissue%20author%3Ajbockler%20)
     - [Pull Requests](https://github.com/appsignal/appsignal-ruby/pull?q=is%3Apr%20author%3Ajbockler%20)
+- [glebm/i18n-tasks](https://github.com/glebm/i18n-tasks)
+  - [Pull Requests](https://github.com/glebm/i18n-tasks/pulls?q=is%3Apr+author%3Ajbockler)
 - [Bearer/bearer-rules](https://github.com/Bearer/bearer-rules)
-    - [Pull Requests](https://github.com/Bearer/bearer-rules/pulls?q=is%3Apr+author%3Ajbockler)
+  - [Pull Requests](https://github.com/Bearer/bearer-rules/pulls?q=is%3Apr+author%3Ajbockler)
 - [yob/pdf-reader](https://github.com/yob/pdf-reader)
-    - [Pull Requests](https://github.com/yob/pdf-reader/pulls?q=is%3Apr+author%3Ajbockler+is%3Aclosed)
+  - [Pull Requests](https://github.com/yob/pdf-reader/pulls?q=is%3Apr+author%3Ajbockler+is%3Aclosed)
+- [yabeda/yabeda-puma-plugin](https://github.com/yabeda-rb/yabeda-puma-plugin)
+  - [Pull Requests](https://github.com/yabeda-rb/yabeda-puma-plugin/pulls?q=is%3Apr+author%3Ajbockler)
 
 And several other smaller contributions.
 
